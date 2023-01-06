@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.masai.eval</groupId>
+  <artifactId>masaieval</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>evalq1</name>
+  <description>injection ques 1 eval2</description>
+  
+     <dependencies>
+	  <dependency>
+	  <groupId>javax.annotation</groupId>
+  		<artifactId>javax.annotation-api</artifactId>
+  		<version>1.3.2</version>
+  		</dependency>
+  </dependencies>
+</project>
